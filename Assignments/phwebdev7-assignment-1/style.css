@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Work+Sans&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Work Sans', sans-serif;
+    box-sizing: border-box;
+
+}
+body{
+  background: #E5E5E5;
+}
+header{
+    margin-bottom: 50px;
+}
+.banner {
+    background-image: url("./images/banner/banner.png");
+    height:100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .textTitle{
+    color: #FFFFFF;
+    text-align: right;
+    font-weight: 700;
+    font-size: 65px;
+    padding-top: 216px;
+    padding-right: 230px;
+
+  }
+  .textDetail{
+    color: #FFFFFF;
+    text-align: right;
+    padding-right: 230px;
+    margin-top: 24px;
+  }
+  .btn{
+    color: #005FAC;
+    background: #FFFFFF;
+    border-radius: 5px;
+    width: 160px;
+    height: 64px;
+    border: 0;
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 1500px;
+    margin-top: 55px;
+  }
+  .mainContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 90px;
+    margin-bottom: 130px;
+  }
+  .avatar{
+    width: 501px;
+	height: 498px;
+  }
+  .sideTitle{
+    color: #151414;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 24px;
+  }
+  .sideText{
+    color: #444343;
+    text-align: justify;
+    margin-bottom: 16px;
+  }
+
+  .plan{
+    color: #151414;
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 50px;
+  }
+  .skillList{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 120px;
+  }
+  .skillIndex{
+    width: 218px;
+    height: 30px;
+  }
+  .skill-text{
+    color: #151414;
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+    margin-bottom: 16px;
+    margin-top: 16px;
+  }
+  .skill-title{
+    color: #737272;
+    text-align: center;
+    font-weight: 500;
+    font-size: 25px;
+  }
+  .skill-img{
+    margin-left: 50px;
+  }
+
+  .bannerSpan {
+    width: 1140px;
+    height: 300px;
+    background: url(./images/gradient1.png), url(./images/banner-img.png);
+    border-radius: 8px;
+    margin-left: 230px;
+    margin-bottom: 130px;
+    margin-top: 400px;
+}
+.bannerTitle {
+    width: 459px;
+    height: 94px;
+    font-family: 'Work Sans';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+    color: #FFFFFF;
+    margin-left: 60px;
+    padding-top: 80px;
+}
+
+.bannerButton {
+    width: 160px;
+    height: 64px;
+    font-family: 'Work Sans';
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    margin-left: 60px;
+    margin-top: 50px;
+    color: #005FAC;
+    border-radius: 5px;
+    border: none;
+}
+
+
+  footer{
+    background: #151414;
+    width: 1900px;
+    height: 500px;
+    padding: 90px 110px;
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+  }
+  .footerContainer > h1{
+    color: #F8F8F8;
+    font-weight: 700;
+    font-size: 45px;
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
+  .footerContainer > p{
+    color: #FFFFFF;
+    margin-bottom: 24px;
+
+  }
+  .subscribe > h1{
+    color: #F8F8F8;
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 30px;
+  }
+  input{
+    padding: 22px;
+    width: 230px;
+    height: 10px;
+    background: #151414;
+    border: 2px solid #F8F8F8;
+    
+
+  }
+  .subscribe > button {
+    font-weight: 600;
+    font-size: 20px;
+    padding: 20px 36px;
+    margin-top: 36px;
+    background: #005FAC;
+    border-radius: 8px;
+    border: 0;
+    color: #FFFFFF;
+
+  }
