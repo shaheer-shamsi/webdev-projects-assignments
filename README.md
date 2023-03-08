@@ -40,3 +40,12 @@ Web Development Projects &amp; Assignments: repository for PHWebDev7 assignments
 * Live Site:
 <https://shaheer-shamsi-phwebdev7-a5.netlify.app/>
 
+## PHWebDev7 Assignment 6:
+* AI-universe-hub: 
+<https://github.com/ProgrammingHero1/geometry-genius-resources/>
+
+* Code:
+<https://github.com/ProgrammingHero1/AI-universe-hub/>
+<https://github.com/shaheer-shamsi/webdev-projects-assignments/tree/main/Assignments/phwebdev7-assignment-6/>
+* Live Site:
+<https://shaheer-shamsi-phwebdev7-a6.netlify.app/>
