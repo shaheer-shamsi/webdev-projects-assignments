@@ -15,8 +15,8 @@ Web Development Projects &amp; Assignments: repository for PHWebDev7 assignments
 <https://github.com/ProgrammingHero1/g3-architects/>
 
 * Code:
-<https://github.com/shaheer-shamsi/g3-architects/>
 <https://github.com/shaheer-shamsi/webdev-projects-assignments/tree/main/Assignments/phwebdev7-assignment-2/>
+<https://github.com/shaheer-shamsi/g3-architects/>
 * Live Site:
 <https://shaheer-shamsi-phwebdev7-a2.netlify.app/>
 
@@ -25,8 +25,8 @@ Web Development Projects &amp; Assignments: repository for PHWebDev7 assignments
 <https://github.com/ProgrammingHero1/legal-solution-resources/>
 
 * Code:
-<https://github.com/Programming-Hero-Web-Course4/b7-legal-house-shaheer-shamsi/>
 <https://github.com/shaheer-shamsi/webdev-projects-assignments/tree/main/Assignments/phwebdev7-assignment-3/>
+<https://github.com/Programming-Hero-Web-Course4/b7-legal-house-shaheer-shamsi/>
 * Live Site:
 <https://shaheer-shamsi-phwebdev7-a3.netlify.app/>
 
@@ -35,8 +35,8 @@ Web Development Projects &amp; Assignments: repository for PHWebDev7 assignments
 <https://github.com/ProgrammingHero1/geometry-genius-resources/>
 
 * Code:
-<https://github.com/shaheer-shamsi/geometry-genius/>
 <https://github.com/shaheer-shamsi/webdev-projects-assignments/tree/main/Assignments/phwebdev7-assignment-5/>
+<https://github.com/shaheer-shamsi/geometry-genius/>
 * Live Site:
 <https://shaheer-shamsi-phwebdev7-a5.netlify.app/>
 
